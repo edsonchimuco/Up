@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.edsonchimuco.upline",
+      "sha256_cert_fingerprints": [
+        "1B:33:A7:80:E6:5C:9F:91:0A:64:CD:0E:1D:13:E1:D1:C2:7A:9D:AF:A5:19:09:8C:FC:F5:49:A1:E1:77:B3:B7"
+      ]
+    }
+  }
+]
